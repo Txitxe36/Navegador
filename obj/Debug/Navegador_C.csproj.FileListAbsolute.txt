@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\bin\Debug\Navegador_C.exe.config
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\bin\Debug\Navegador_C.exe
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\bin\Debug\Navegador_C.pdb
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\obj\Debug\Navegador_C.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\obj\Debug\Navegador_C.Form1.resources
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\obj\Debug\Navegador_C.Properties.Resources.resources
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\obj\Debug\Navegador_C.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\obj\Debug\Navegador_C.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\obj\Debug\Navegador_C.exe
+C:\Users\Usuario\Desktop\visual studio 2019\Navegador_C\obj\Debug\Navegador_C.pdb
